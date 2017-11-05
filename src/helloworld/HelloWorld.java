@@ -9,6 +9,7 @@ public class HelloWorld
 	{
 		System.out.println(new Date());
 		System.out.println("Hello World!");
+		System.out.println("Hello Mars!");
 		System.out.println("Hello Sun!");
 		System.out.println("Hello Moon!");
 		System.out.println(new Date());
